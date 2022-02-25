@@ -1,4 +1,3 @@
-
 // fight function
 var fight = function(enemy) {
   while (playerInfo.health > 0 && enemy.health > 0) {
